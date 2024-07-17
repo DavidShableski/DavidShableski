@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for various areas
 | Software Development                        | <a href="https://github.com/username/project1">Project 1</a> |
 | Data Structures and Algorithms              | <a href="https://github.com/username/project2">Project 2</a> |
 | Machine Learning and Data Analysis          | <a href="https://github.com/username/project3">Project 3</a> |
-| Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/username/project4">Project 4</a> |
+| Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
 | Database Management (SQL, NoSQL)            | <a href="https://github.com/username/project5">Project 5</a> |
 | Problem Solving and Critical Thinking       | <a href="https://github.com/username/project6">Project 6</a> |
 
@@ -43,6 +43,6 @@ My journey in computer science has led me to develop a passion for various areas
 - <a href="https://github.com/username/project1">Project 1: Description</a>
 - <a href="https://github.com/username/project2">Project 2: Description</a>
 - <a href="https://github.com/username/project3">Project 3: Description</a>
-- <a href="https://github.com/username/project4">Project 4: Description</a>
+- <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a>
 - <a href="https://github.com/username/project5">Project 5: Description</a>
 - <a href="https://github.com/username/project6">Project 6: Description</a>
