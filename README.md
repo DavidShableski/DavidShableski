@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for various areas
 | Skill                                       | Associated Project                        |
 |---------------------------------------------|-------------------------------------------|
 | Software Development                        | <a href="https://github.com/username/project1">Project 1</a> |
-| Data Structures and Algorithms              | <a href="https://github.com/username/project2">Project 2</a> |
+| Data Structures and Algorithms              | <a href="https://github.com/DavidShableski/Trees">Trees</a> |
 | Machine Learning and Data Analysis          | <a href="https://github.com/username/project3">Project 3</a> |
 | Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
 | Database Management (SQL, NoSQL)            | <a href="https://github.com/username/project5">Project 5</a> |
