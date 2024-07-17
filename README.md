@@ -42,7 +42,7 @@ My journey in computer science has led me to develop a passion for various areas
 ## Projects
 
 - <a href="https://github.com/username/project1">Project 1: Description</a>
-- <a href="https://github.com/username/project2">Project 2: Description</a>
+- <a href="https://github.com/DavidShableski/Trees">Trees</a>
 - <a href="https://github.com/username/project3">Project 3: Description</a>
 - <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a>
 - <a href="https://github.com/username/project5">Project 5: Description</a>
