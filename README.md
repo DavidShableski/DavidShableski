@@ -15,8 +15,7 @@ My journey in computer science has led me to develop a passion for various areas
 | Data Structures and Algorithms              | <a href="https://github.com/DavidShableski/Trees">Trees</a> |
 | Machine Learning and Data Analysis          | <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a> |
 | Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
-| Database Management (SQL, NoSQL)            | <a href="https://github.com/username/project5">Project 5</a> |
-| Problem Solving and Critical Thinking       | <a href="https://github.com/username/project6">Project 6</a> |
+| Problem Solving and Critical Thinking       | <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a> |
 
 ## Tools
 
@@ -46,5 +45,4 @@ My journey in computer science has led me to develop a passion for various areas
 - <a href="https://github.com/DavidShableski/Trees">Trees</a>
 - <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a>
 - <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a>
-- <a href="https://github.com/username/project5">Project 5: Description</a>
-- <a href="https://github.com/username/project6">Project 6: Description</a>
+- <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a>
