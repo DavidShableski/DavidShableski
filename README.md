@@ -31,6 +31,7 @@ My journey in computer science has led me to develop a passion for various areas
 <div>
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
      <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?&style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?&style=for-the-badge&logo=google-colab&logoColor=white" />
 </div>
 
 ### Databases
