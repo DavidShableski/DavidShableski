@@ -11,7 +11,6 @@ My journey in computer science has led me to develop a passion for various areas
 
 | Skill                                       | Associated Project                        |
 |---------------------------------------------|-------------------------------------------|
-| Software Development                        | <a href="https://github.com/username/project1">Project 1</a> |
 | Data Structures and Algorithms              | <a href="https://github.com/DavidShableski/Trees">Trees</a> |
 | Machine Learning and Data Analysis          | <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a> |
 | Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
@@ -20,28 +19,45 @@ My journey in computer science has led me to develop a passion for various areas
 ## Tools
 
 ### Programming Languages
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+<div> 
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> 
+    <div style="display: flex; flex-wrap: wrap;"> 
+        <img src="https://img.shields.io/badge/-NumPy-013243?&style=flat-square&logo=NumPy&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/-Matplotlib-ffffff?&style=flat-square&logo=Matplotlib&logoColor=black" /> 
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=flat-square&logo=TensorFlow&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/-Jupyter_Notebooks-F37626?&style=flat-square&logo=Jupyter&logoColor=white" /> 
+    </div> 
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> 
+    <br> 
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" /> 
+    <div style="display: flex; flex-wrap: wrap;"> 
+        <img src="https://img.shields.io/badge/-React-61DAFB?&style=flat-square&logo=React&logoColor=black" /> 
+        <img src="https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white" /> 
+    </div> 
 </div>
 
-### Development Tools
-<div>
-    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-     <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?&style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?&style=for-the-badge&logo=google-colab&logoColor=white" />
+### Technology Systems
+<div> 
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?&style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?&style=for-the-badge&logo=google-colab&logoColor=white" /> 
+    <br> 
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?&style=for-the-badge&logo=phpMyAdmin&logoColor=white" /> 
 </div>
 
-### Databases
-<div>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+### Other
+<div> 
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-JSON-000000?&style=for-the-badge&logo=JSON&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /> 
 </div>
-
 
 ## Projects
 
-- <a href="https://github.com/username/project1">Project 1: Description</a>
 - <a href="https://github.com/DavidShableski/Trees">Trees</a>
 - <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a>
 - <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a>
