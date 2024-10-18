@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for various areas
 | Data Structures and Algorithms              | <a href="https://github.com/DavidShableski/Trees">Trees</a> |
 | Machine Learning and Data Analysis          | <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a> |
 | Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
+| Data Analysis and Statistical Modeling      | <a href="https://github.com/DavidShableski/OBP-Prediction-Project">OBP Prediction Project</a> |
 | Problem Solving and Critical Thinking       | <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a> |
-| Data Analysis and Statistical Modeling      | <a href="https://github.com/DavidShableski/OBP-Prediction-Project">OBP Prediction Project</a>
 
 ## Tools
 
@@ -62,5 +62,5 @@ My journey in computer science has led me to develop a passion for various areas
 - <a href="https://github.com/DavidShableski/Trees">Trees</a>
 - <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a>
 - <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a>
-- <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a>
 - <a href="https://github.com/DavidShableski/OBP-Prediction-Project">OBP Prediction Project</a>
+- <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a>
