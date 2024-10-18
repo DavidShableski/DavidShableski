@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for various areas
 | Machine Learning and Data Analysis          | <a href="https://github.com/DavidShableski/Weather-Image-Classification">Weather Image Classification</a> |
 | Web Development (HTML, CSS, JavaScript)     | <a href="https://github.com/DavidShableski/Timer-Diffusion">Timer Diffusion</a> |
 | Problem Solving and Critical Thinking       | <a href="https://github.com/DavidShableski/Algorithm-Optimization">Algorithm Optimization</a> |
+| Data Analysis and Statistical Modeling      | <a href="https://github.com/DavidShableski/OBP-Prediction-Project">OBP Prediction Project</a>
 
 ## Tools
 
