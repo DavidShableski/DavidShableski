@@ -1,7 +1,7 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-shableski/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a computer science and math dual major with a passion for technology and problem-solving.
+I’m a dual major in Computer Science and Mathematics with a minor in Artificial Intelligence. I have a strong passion for technology and problem-solving, and I enjoy using analytical thinking to tackle complex challenges and build practical solutions.
 
 ## Objective
 
